@@ -3,3 +3,5 @@ Hi this is to test the git commands
 hi
 ji
 good to getin soon
+development of java
+testing was not yet started
